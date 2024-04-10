@@ -1,3 +1,7 @@
-*.out
+c-echo-count
 test
-c-echo
+
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
